@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on OREL's Devlopmental AI projects and my own Cognition Futures work!
+- 🔭 I’m currently working on OREL's Developmental AI projects and my own Cognition Futures work!
 - 🌱 I’m currently learning MITx Micromasters Program in Statistics & Data Science
 - 🤔 I’m looking for help with new research opportunities & jobs
 - 💬 Ask me about Cognition Study Journal Club!
