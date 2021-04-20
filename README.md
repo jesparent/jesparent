@@ -1,7 +1,6 @@
 ### Hi there 👋
-
-- 🔭 I’m currently working on OREL's Developmental AI projects and my own Cognition Futures work!
-- 🌱 I’m currently learning MITx Micromasters Program in Statistics & Data Science
+- 🌱 I’m currently working on my #SumerOfData training program! See the [Tweet Thread](https://twitter.com/JesParent/status/1382172388301869057).
+- 🔭 OREL's Developmental AI project and my own Cognition Futures research group!
 - 🤔 I’m looking for help with new research opportunities & jobs
 - 💬 Ask me about Cognition Study Journal Club!
 - 📫 How to reach me: @JesParent on Twitter, or www.jesparent.com
