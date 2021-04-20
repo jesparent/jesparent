@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently working on my #SumerOfData training program! See the [Tweet Thread](https://twitter.com/JesParent/status/1382172388301869057).
+- 🌱 I’m currently working on my #SummerOfData training program! See the [Tweet Thread](https://twitter.com/JesParent/status/1382172388301869057).
 - 🔭 OREL's Developmental AI project and my own Cognition Futures research group!
 - 🤔 I’m looking for help with new research opportunities & jobs
 - 💬 Ask me about Cognition Study Journal Club!
