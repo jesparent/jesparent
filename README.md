@@ -1,8 +1,8 @@
 ### Hi there 👋
-- 🌱 I’m currently working on my #SummerOfData training program! See the [Tweet Thread](https://twitter.com/JesParent/status/1382172388301869057).
+- 🌱 I’m currently working on: my new position at StaetOfTheArt AI, and getting my main lab's Cognition Futures team ready for CogSci 2021!
 - 🔭 OREL's Developmental AI project and my own Cognition Futures research group!
 - 🤔 I’m looking for help with new research opportunities & jobs
-- 💬 Ask me about Cognition Study Journal Club!
+- 💬 Ask me about Neuromatch Academy (I'm a Volunteer again this year!)
 - 📫 How to reach me: @JesParent on Twitter, or www.jesparent.com
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: FirstGen & Non-Traditional student, moving to Boston or California soon!
