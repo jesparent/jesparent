@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🌱 Currently working on: new position at StateOfTheArt AI, and OREL's CF CogSci 2021 Discussion Group!
 - 🔭 OREL's Developmental AI project and my own Cognition Futures research group!
-- 🤔 I’m looking for help with new research opportunities & jobs
+- 🤔 I’m looking for some interns / assistants to help out w Ethics Team & CF.
 - 💬 Ask me about Neuromatch Academy (I'm a Volunteer again this year!)
 - 📫 How to reach me: @JesParent on Twitter, or www.jesparent.com
 - 😄 Pronouns: He/His
