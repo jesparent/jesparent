@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 Currently working on: new position at StateOfTheArt AI, and getting my main lab's Cognition Futures team ready for CogSci 2021!
+- 🌱 Currently working on: new position at StateOfTheArt AI, and OREL's CF CogSci 2021 Discussion Group!
 - 🔭 OREL's Developmental AI project and my own Cognition Futures research group!
 - 🤔 I’m looking for help with new research opportunities & jobs
 - 💬 Ask me about Neuromatch Academy (I'm a Volunteer again this year!)
