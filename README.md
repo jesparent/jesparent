@@ -1,11 +1,11 @@
 ### Hi there 👋
-- 🌱 Currently working on: new position at StateOfTheArt AI, and OREL's CF CogSci 2021 Discussion Group!
+- 🌱 Honored to be a part of NSF's innagural cohort of the [CSGrad4US graduate fellowship](https://jesparent.github.io/nsf/)!
 - 🔭 OREL's Developmental AI project and my own Cognition Futures research group!
-- 🤔 I’m looking for some interns / assistants to help out w Ethics Team & CF.
-- 💬 Ask me about Neuromatch Academy (I'm a Volunteer again this year!)
+- 🤔 I’m [looking for interns & collaborators](https://jesparent.github.io/join/) to help out w Ethics Team & CF.
+- 💬 Ask me about how I could contribute to your group via [speaking or consulting](https://jesparent.notion.site/Speaking-Consulting-89605cd0bae042459a3b0096acef4171).
 - 📫 How to reach me: @JesParent on Twitter, or www.jesparent.com
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: FirstGen & Non-Traditional student, moving to Boston or California soon!
+- ⚡ Fun fact: FirstGen & Non-Traditional student, recently moved to Boston!
 
 
 
