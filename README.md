@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🌱 Honored to be a part of NSF's innagural cohort of the [CSGrad4US graduate fellowship](https://jesparent.github.io/nsf/)!
 - 🔭 OREL's Developmental AI project and my own Cognition Futures research group!
-- 🤔 I’m [looking for interns & collaborators](https://jesparent.github.io/join/) to help out w Ethics Team & CF.
+- 🤔 I’m [looking for interns & collaborators](https://jesparent.github.io/join/) to help out w Ethics Team & Cognition Futures.
 - 💬 Ask me about how I could contribute to your group via [speaking or consulting](https://jesparent.notion.site/Speaking-Consulting-89605cd0bae042459a3b0096acef4171).
 - 📫 How to reach me: @JesParent on Twitter, or www.jesparent.com
 - 😄 Pronouns: He/His
