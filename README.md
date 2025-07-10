@@ -1,11 +1,10 @@
 ### Hi there 👋
-- 🌱 Recently developed www.jopro.org as a hub for research, mentoring, and educational efforts.
-- 🔭 I manage the Cognifion Futures group at Orthogonal Research and Education Lab. 
-- 🤔 I’m looking for space or co-organizing for a CogSci 2023 Boston-based meetup!
+- 🌱 Recently started the Data x Direction project under the Society Ethics Technology working group at JOPRO + Orthogonal Lab!
+- 🔭 I manage & develope www.jopro.org: Research * Innovation * Menotrship 
+- 🤔 I’m looking for folks to interview as part of From Here To There: Strategy and Mentoring for Innovators!
 - 💬 Ask me about how I could contribute to your group via [speaking or consulting](www.jesparent.com).
-- 📫 How to reach me: @JesParent on Twitter, or www.jesparent.com
-- 😄 Pronouns: He/His/They
-- ⚡ Fun fact: FirstGen & Non-Traditional student, recently moved to Boston!
+- 📫 How to reach me: @JesParent on Twitter, or www.jesparent.com/links for more
+- ⚡ Fun fact: FirstGen & Non-Traditional path, based in Boston & NY
 
 
 
