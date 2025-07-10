@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🌱 Recently started the Data x Direction project under the Society Ethics Technology working group at JOPRO + Orthogonal Lab!
-- 🔭 I manage & develope www.jopro.org: Research * Innovation * Menotrship 
+- 🔭 I manage & develope www.jopro.org: Research * Innovation * Mentorship 
 - 🤔 I’m looking for folks to interview as part of From Here To There: Strategy and Mentoring for Innovators!
 - 💬 Ask me about how I could contribute to your group via [speaking or consulting](www.jesparent.com).
 - 📫 How to reach me: @JesParent on Twitter, or www.jesparent.com/links for more
